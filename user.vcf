@@ -1,8 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Rares;Popescu;;;
-FN: Rares  Popescu 
+N:Popescu;Rares;;;
+FN: Rares Popescu 
 ORG:Lavmi Perla | APA DIN NOY;
 TITLE:CIO & Water Manager Division
 EMAIL;type=INTERNET;type=WORK;type=pref:rares.popescu@apadinnoy.ro
